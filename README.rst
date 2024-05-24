@@ -20,7 +20,11 @@
    :target: https://pretalx.com/p/news/
    :alt: Website
 
-``pretalx`` is a conference planning tool focused on providing the best
+.. image:: https://codecov.io/gh/pretix/pretix/branch/master/graph/badge.svg
+   :target: https://codecov.io/gh/pretix/pretix
+   :alt: Codecov
+
+``eventyay-talk`` is a conference planning tool focused on providing the best
 experience for organisers, speakers, reviewers, and attendees alike.  It
 handles the submission process with a configurable Call for Participation, the
 reviewing and selection of submissions, and the scheduling and release
